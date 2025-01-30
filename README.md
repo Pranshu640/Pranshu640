@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently enhancing my skills in Full Stack Web Development<br>👯 I’m looking to collaborate and work more on my skills<br>🌱 I’m currently learning React and working on a small project<br>⚡ My Moto : Do what you want with excellence till it satisfies *YOU*
+🔭 I’m currently enhancing my skills in Full Stack Web Development and learning<br>👯 I’m looking to collaborate and work more on my skills<br>🌱 I’m currently learning React and working on a small project<br>⚡ My Moto : Do what you want with excellence till it satisfies *YOU*
 
 
 ## 🌐 Socials:
