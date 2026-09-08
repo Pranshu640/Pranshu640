@@ -1,30 +1,32 @@
-# 💫 About Me:
-🔭 I’m currently enhancing my skills in Full Stack Web Development and learning AI development <br> I’m looking to collaborate and work more on my skills<br>🌱 I’m currently learning React and working on a small project<br>⚡ My Moto : Do what you want with excellence till it satisfies *YOU*
+# Hi, I'm Pranshu Bansal
 
+I build web applications, explore AI and search, and develop native iOS apps.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranshuu.bored) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranshu-bansal-b485a6322) 
+My projects span collaborative workspaces, literature retrieval, and music learning. I enjoy working across the interface and backend, and understanding how the pieces fit together.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pranshu640&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pranshu640&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu640&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[LinkedIn](https://www.linkedin.com/in/pranshu-bansal-b485a6322/) · [Email](mailto:pranshubansal640@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pranshu640&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Selected projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+| Project | What I built | Technologies |
+| --- | --- | --- |
+| [PubMed Hybrid Retrieval](https://github.com/Pranshu640/pubmed-hybrid-retrieval) | A reproducible benchmark comparing dense, sparse, and hybrid search over precision-oncology literature. | Python, Qdrant, FastEmbed |
+| [CollabAI](https://github.com/Pranshu640/Collab-AI-Frontend) | A collaborative AI workspace prototype with a realtime whiteboard, chat, and shared project context. Archived as a portfolio reference. | Next.js, TypeScript, Socket.IO |
+| [Sargam](https://github.com/Pranshu640/Sargam) | An iOS app for Indian classical music practice, with guided swara lessons and on-device pitch feedback. | Swift, SwiftUI, AVFoundation |
+| [Home-Lander](https://github.com/Pranshu640/Home-Lander) | A real estate web app for browsing and managing property listings, with authentication, image uploads, and reviews. | Node.js, Express, MongoDB |
 
----
-[![](https://visitcount.itsvg.in/api?id=Pranshu640&icon=0&color=0)](https://visitcount.itsvg.in)
+## Technologies I've worked with
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranshu640/Pranshu640/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranshu640/Pranshu640/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Pranshu640/Pranshu640/output/github-snake.svg" />
-</picture>
+- **Languages:** TypeScript, JavaScript, Python, Swift, SQL
+- **Web:** React, Next.js, Node.js, Express, FastAPI
+- **iOS:** SwiftUI, AVFoundation
+- **Data & search:** MongoDB, MySQL, Qdrant
+- **Tools:** Git, GitHub, Docker
 
+## Interests
 
+- Full-stack applications with useful, thoughtful interfaces
+- AI-assisted tools, semantic search, and retrieval evaluation
+- Native iOS development and interactive audio experiences
+
+Open to collaborating on projects in these areas. Feel free to reach out.
